@@ -45,7 +45,7 @@ menu_align = "center"
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+# google_tag_manager = "" # example: G-XXXXXXXXXX
 
 
 ######################## Site Variables #########################
@@ -71,7 +71,7 @@ icon_font = "Font Awesome 5 Free"
 
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["categories"]
+sidebar = ["toc","categories"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 # preloader
@@ -161,6 +161,10 @@ hasChildren = true
 
 [[Languages.en.menu.main]]
     name = "Disney"
-    url = "/categories/Disney"
+    url = "/categories/disney"
     parent = "Sets"
+[[Languages.en.menu.main]]
+    name = "Blockheadz"
+    url = "/categories/blockheadz"
+    parent = "Sets" 
 
