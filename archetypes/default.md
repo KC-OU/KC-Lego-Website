@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: 2024-12-18
+date: {{ now.Format "2006-01-02" }}
 url: /{{ .Name }}/
 image: /static/images/{{ .Name }}.jpg
 categories:
