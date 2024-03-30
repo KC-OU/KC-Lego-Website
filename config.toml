@@ -25,11 +25,11 @@ unsafe= true
 [params]
 # logo
 logo = "images/logo.jpeg"
-# favicon
+# favi
 favicon = "images/favicon.png"
 # meta data
 author = "Kieran Collins"
-description = "This is meta description"
+description = "Keep Moving forward"
 # homepage main section
 mainSections = ["posts"]
 # contact form action
@@ -125,12 +125,6 @@ link = "#github"
 icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
 link = "#linkedin"
 
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
 
 [[params.social_profile]]
 icon = "fab fa-facebook" # Fontawesome icon pack https://fontawesome.com/icons
@@ -147,7 +141,7 @@ link = "#linkedin"
 
 
 ############################# English - Main Menu ########################
-[[Languages.en.menu.main]]
+[[menu.main]]
 weight = 1
 url = "/"
 name = "Home"
@@ -159,11 +153,11 @@ url = "#"
 name = "Sets"
 hasChildren = true
 
-[[Languages.en.menu.main]]
+[[menu.main]]
     name = "Disney"
     url = "/categories/disney"
     parent = "Sets"
-[[Languages.en.menu.main]]
+[[menu.main]]
     name = "Blockheadz"
     url = "/categories/blockheadz"
     parent = "Sets" 
