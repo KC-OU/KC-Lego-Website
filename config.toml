@@ -161,4 +161,8 @@ hasChildren = true
     name = "Blockheadz"
     url = "/categories/blockheadz"
     parent = "Sets" 
+[[menu.main]]
+    name = "Minecraft"
+    url = "/categories/minecraft"
+    parent = "Sets"
 
