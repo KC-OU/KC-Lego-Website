@@ -165,4 +165,8 @@ hasChildren = true
     name = "Minecraft"
     url = "/categories/minecraft"
     parent = "Sets"
+[[menu.main]]
+    name = "StarWars"
+    url = "/categories/starwars"
+    parent = "Sets"
 

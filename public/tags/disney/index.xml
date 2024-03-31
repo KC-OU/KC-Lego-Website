@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disney on KC Brick Emporium</title>
-    <link>//localhost:46633/tags/disney/</link>
+    <link>//localhost:1313/tags/disney/</link>
     <description>Recent content in Disney on KC Brick Emporium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:46633/tags/disney/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/disney/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disney 100th Celebration</title>
-      <link>//localhost:46633/posts/disney/40622/</link>
+      <link>//localhost:1313/posts/disney/40622/</link>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:46633/posts/disney/40622/</guid>
+      <guid>//localhost:1313/posts/disney/40622/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Help kids aged 10+ celebrate Disney with this LEGO® BrickHeadz™ | Disney 100th Celebration (40622) set, featuring Oswald the Lucky Rabbit (Disney’s first character), Mickey Mouse (the first ever animated character), Snow White (the star of Disney’s first feature film), and Tinker Bell – the first Disneyland mascot. Assemble the models, set them on their individual baseplates and display them anywhere. Snow White’s torso includes a decoration. The set makes a fun, collectible gift for Disney fans.&lt;/p&gt;
 &lt;ul&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Goofy &amp; Pluto</title>
-      <link>//localhost:46633/posts/disney/40378/</link>
+      <link>//localhost:1313/posts/disney/40378/</link>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:46633/posts/disney/40378/</guid>
+      <guid>//localhost:1313/posts/disney/40378/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Collectors of LEGO® BrickHeadz™ will love Goofy &amp;amp; Pluto (40378), featuring 2 classic Disney characters. Goofy, wearing his familiar turtleneck sweater and tall green hat, stands alongside the playful Pluto. The 2 lovable Disney friends come with sturdy baseplates that make them easy to display, either individually or alongside other BrickHeadz models. Collectors of LEGO BrickHeadz can combine elements of different sets to create fun, mashed-up characters of their own.&lt;/p&gt;
 &lt;p&gt;This collectible building set lets kids construct fun LEGO® BrickHeadz™ models of 2 of Disney’s most recognizable characters: Goofy and Pluto.
@@ -85,7 +85,9 @@ With Goofy standing over 3” (8cm) tall and Pluto over 1” (5cm) tall, this 21
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;additional-set-studio-moc&#34;&gt;Additional Set Studio Moc&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;//localhost:46633/content/images/Disney/40378-model.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/Disney/40378-model.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Link to Moc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1WE4AxBKdOvtxcQgv9M8AtQP3YgQ_GG4o/view?usp=drive_link&#34;&gt;https://drive.google.com/file/d/1WE4AxBKdOvtxcQgv9M8AtQP3YgQ_GG4o/view?usp=drive_link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
